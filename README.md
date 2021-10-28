@@ -19,6 +19,7 @@ Second set of videos discussed the details of a typical RTL2GDSII flow and how i
 ![image](https://user-images.githubusercontent.com/37201355/139193527-38f3222b-25f2-4e93-9234-201a82b80680.png)
 
 Third set of videos described the directory structure and the commands to invoke the OpenLANE tool and synthesis our first design called picorv32.
+![image](https://user-images.githubusercontent.com/37201355/139266697-6f0c29c1-6fb4-46cc-951f-723af01b76c9.png)
 
 ## Day 2
 ## Day 3
